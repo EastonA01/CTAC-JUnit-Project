@@ -1,6 +1,5 @@
 package org.example;
 
-import org.junit.Before;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
